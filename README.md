@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋, I'm Kevin Henderson
+
+#### Data Scientist | App Developer | Management Consultant
+
+- 📫 How to reach me: https://linkedin.com/in/kevin-e-henderson/
+- ⚡ Fun fact: I used to be in the Navy on submarines
 
 <!--
 **dataMind5/dataMind5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
